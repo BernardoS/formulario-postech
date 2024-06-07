@@ -32,5 +32,6 @@ function submitForm(){
         body: JSON.stringify(formData)
       }).then(res => {
         alert("Formulário submetido!");
+        window.location.reload();
       });
 }

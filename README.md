@@ -1,7 +1,7 @@
 # formulario-postech
  Desafio formulário pós-tech
 
-Bernardo 
-Anderson
-Igor
-Guilherme
+## Bernardo Souza Ferreira da Silva RM357519
+## Anderson Oliveira da Conceição Ribeiro RM356608
+## Igor RM357806
+## Guilherme Marin RM356613
